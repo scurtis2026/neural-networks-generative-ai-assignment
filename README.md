@@ -1,7 +1,7 @@
 # Part D: Reflection
 
-# 1. Based on what I experienced, data augmentation is helpful in making a neural network perform more optimally by creating multiple different versions of training images. These versions can be the images rotated and zoomed in or out, but they help the model learn better.
+# 1. Based on what I experienced, data augmentation is helpful in making a neural network perform more optimally by creating multiple different versions of training images. These versions can be the images rotated and zoomed in or out, but they help the model learn better by reducing the amount of overfitting that can happen. When it comes to generative AI, I learned that it can increase the training data amount with it's ability to create new images and improve the model's performance by this way as well.
 
-# 2.
+# 2. The only real challenge I had with this model was the act of picking the right settings for it. Moreso, I had to think about the number of neurons and layers that were appropriate for this scenario and set levels that weren't going to impact the accuracy or speed of the process. Although, using data augmentation to train the model did cause the accuracy to fluctuate just a bit given how new images were created every time it ran.
 
-# 3.
+# 3. Techniques such as these can prove to useful for self-driving cars in the real world, however. The reason for that being because not all AI models have enough training data provided or acquired to perform their functions to their highest, or at least more efficient, capacity. With generative AI being able to create new training data to work with, self-driving cars can detect traffic signs and roads to turn on better than having to previously struggle and lack the means to accurately recognize their intended functions.
